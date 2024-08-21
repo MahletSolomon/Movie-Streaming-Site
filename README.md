@@ -1,5 +1,5 @@
 # Movie-Lander
-DSA final project
+
 
 This is a website for streaming movies. It is made with react.js for the front end and Firebase for the back end. 
 
